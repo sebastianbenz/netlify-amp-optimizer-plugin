@@ -18,6 +18,9 @@
     "amp-optimizer",
     "amp-toolbox"
   ],
-  "author": "Daniel Hannih",
+  "author": {
+    "name": "Daniel Hannih",
+    "url": "https://psycatgames.com/"
+  },
   "license": "MIT"
 }
