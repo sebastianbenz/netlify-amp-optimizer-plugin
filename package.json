@@ -3,15 +3,20 @@
   "version": "1.0.0",
   "description": "A Netlify plugin to run the AMP Optimizer",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
-    "url": "d"
+    "url": "git+https://github.com/danielhannih/netlify-amp-optimizer-plugin.git"
+  },
+  "bugs": {
+    "url": "https://github.com/danielhannih/netlify-amp-optimizer-plugin"
   },
   "keywords": [
-    "AMP"
+    "netlify",
+    "netlify-plugin",
+    "amp",
+    "amp-html",
+    "amp-optimizer",
+    "amp-toolbox"
   ],
   "author": "Daniel Hannih",
   "license": "MIT"

@@ -1,0 +1,4 @@
+name: amp-optimizer
+inputs:
+  - name: siteName
+    description: Name of the site
